@@ -1,0 +1,14 @@
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.AssemblyInfoInputs.cache
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.AssemblyInfo.cs
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.csproj.CoreCompileInputs.cache
+C:\Users\preet\OneDrive\Desktop\c#\prog7\bin\Debug\net8.0\prog7.exe
+C:\Users\preet\OneDrive\Desktop\c#\prog7\bin\Debug\net8.0\prog7.deps.json
+C:\Users\preet\OneDrive\Desktop\c#\prog7\bin\Debug\net8.0\prog7.runtimeconfig.json
+C:\Users\preet\OneDrive\Desktop\c#\prog7\bin\Debug\net8.0\prog7.dll
+C:\Users\preet\OneDrive\Desktop\c#\prog7\bin\Debug\net8.0\prog7.pdb
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.dll
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\refint\prog7.dll
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.pdb
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\prog7.genruntimeconfig.cache
+C:\Users\preet\OneDrive\Desktop\c#\prog7\obj\Debug\net8.0\ref\prog7.dll
